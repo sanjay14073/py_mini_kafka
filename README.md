@@ -50,7 +50,7 @@ mini_kafka/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/mini-kafka.git
+    git clone https://github.com/sanjay14073/py_mini_kafka.git
     cd mini-kafka
     ```
 
